@@ -23,3 +23,5 @@ Ladder logic exercises built in OpenPLC Editor while learning industrial automat
 ### 02 - Sumobot attack logic
 **What it does:** [atacks when both sensors are true an neglets it if the line sensor detects something]
 **What I learned:** [I learned how to implent TON´s on real life situations]
+
+![Sumobot attack logic ladder diagram](image2.png)
